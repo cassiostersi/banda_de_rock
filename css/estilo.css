@@ -42,3 +42,15 @@ ul{
     height: 15vh;
 
 }
+
+li a:hover{
+    font-size: 18px;
+    color: black;
+    border-radius: 20px;
+    background-color:coral ;
+    width: 50px;
+    padding: 5px;
+}
+li {
+    width: 50px;
+}
